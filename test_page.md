@@ -8,4 +8,4 @@ image: /images/pic01.jpg
 name: test
 ---
 
-This is some text.
+This is some text.  With some more text.
