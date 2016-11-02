@@ -1,6 +1,6 @@
 ---
 layout: workshop_page
-permalink: /test/
+permalink: /test
 title: Test2
 header1: Test
 header2: Test page
