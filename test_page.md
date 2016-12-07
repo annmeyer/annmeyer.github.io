@@ -33,4 +33,4 @@ name: test
 								</article>
 </section>
 
-This is some text.  With some more text. Changes 
+This is some text.  With some more text. Changes here
