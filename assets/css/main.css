@@ -2362,7 +2362,7 @@
 		}
 
 			.image.fit img {
-				width: 100%;
+				
 			}
 
 		.image.main {
@@ -2372,7 +2372,7 @@
 		}
 
 			.image.main img {
-				width: 100%;
+				
 			}
 
 			@media screen and (max-width: 736px) {
