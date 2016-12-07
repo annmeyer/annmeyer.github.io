@@ -11,7 +11,7 @@ name: test
 <section class="tiles">
 								<article class="style1">
 									<span class="image">
-										<img src="images/pic01.jpg" alt="" />
+										<img src="images/pic01.jpg" alt="" style="width:50px;height:50px;"/>
 									</span>
 									<a href="generic.html">
 										<h2>Magna</h2>
