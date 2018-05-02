@@ -1,6 +1,7 @@
 ---
 layout: 2_day_main
-title: Awesome Workshop 2
+permalink: /awesome_workshop_2
+title: Awesome Workshop 1
 header1: Awesome Sauce Workshops
 header2: Awesome GitHub Workshop
 description: Instructions to create GitHub websites
